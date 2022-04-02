@@ -1,3 +1,4 @@
+print("Instructions: In a given list the last element should become the first one. An empty list or list with only one element should stay the same.")
 def replace_last(array):
     new_array=[]
     for x,i in enumerate(array):
