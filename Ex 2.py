@@ -1,4 +1,4 @@
-
+print ("ex 2")
 def index_power(array,index):
     try:
         array[index]    
