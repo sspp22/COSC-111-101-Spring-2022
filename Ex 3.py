@@ -1,4 +1,4 @@
-
+print("remove all of the elements after the given one from list.")
 def remove_all_after(array,index):
     new_array=[]
     n=0
